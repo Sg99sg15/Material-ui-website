@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sg99sg15/Material-ui-website.git/static/css/main.a240c550.css",
+    "main.js": "/Sg99sg15/Material-ui-website.git/static/js/main.ca805dbf.js",
+    "index.html": "/Sg99sg15/Material-ui-website.git/index.html",
+    "main.a240c550.css.map": "/Sg99sg15/Material-ui-website.git/static/css/main.a240c550.css.map",
+    "main.ca805dbf.js.map": "/Sg99sg15/Material-ui-website.git/static/js/main.ca805dbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a240c550.css",
+    "static/js/main.ca805dbf.js"
+  ]
+}
